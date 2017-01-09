@@ -1,0 +1,22 @@
+{
+  "name": "bit-loader-remove",
+  "version": "1.0.0",
+  "description": "bit-loader plugin to remove dependencies from a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelCastillo/bit-loader-remove.git"
+  },
+  "keywords": [
+    "bit-loader-plugin"
+  ],
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelCastillo/bit-loader-remove/issues"
+  },
+  "homepage": "https://github.com/MiguelCastillo/bit-loader-remove#readme"
+}
