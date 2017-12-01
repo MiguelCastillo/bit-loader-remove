@@ -10,6 +10,8 @@
     "url": "git+https://github.com/MiguelCastillo/bit-loader-remove.git"
   },
   "keywords": [
+    "bit-bundler",
+    "bit-loader",
     "bit-loader-plugin"
   ],
   "author": "Miguel Castillo <manchagnu@gmail.com>",
