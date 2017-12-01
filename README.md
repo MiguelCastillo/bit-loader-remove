@@ -1,4 +1,6 @@
 # bit-loader-remove
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MiguelCastillo/bit-loader-remove.svg)](https://greenkeeper.io/)
 bit-loader plugin to remove modules from bundles
 
 ## Example
