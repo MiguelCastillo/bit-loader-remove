@@ -1,5 +1,5 @@
 {
-  "name": "bit-loader-remove",
+  "name": "@bit/loader-remove",
   "version": "1.0.2",
   "description": "bit-loader plugin to remove dependencies from a module",
   "main": "index.js",
